@@ -4,12 +4,12 @@ class IngredientesController < ApplicationController
   # GET /ingredientes
   def index
     @ingredientes = Ingrediente.all
-    render json: @ingredientes.as_json(except: ["created_at", "updated_at", "path"])
+    render json: @ingredientes.as_json(except: ["created_at", "updated_at", "path"]), status: 200
   end
 
   # GET /ingredientes/1
   def show
-    render json: @ingrediente.as_json(except: ["created_at", "updated_at", "path"])
+      render json: @ingrediente.as_json(except: ["created_at", "updated_at", "path"])
   end
 
   # POST /ingredientes
@@ -17,9 +17,9 @@ class IngredientesController < ApplicationController
     @ingrediente = Ingrediente.new(ingrediente_params)
 
     if @ingrediente.save
-      render json: @ingrediente.as_json(except: ["path","created_at", "updated_at"]), status: :created, location: @ingrediente
+      render json: @ingrediente.as_json(except: ["path","created_at", "updated_at"]), status: 201, location: @ingrediente
     else
-      render json: @ingrediente.errors, status: :unprocessable_entity
+      render json: "Input invalido", status: 400
     end
   end
 
@@ -34,13 +34,32 @@ class IngredientesController < ApplicationController
 
   # DELETE /ingredientes/1
   def destroy
-    @ingrediente.destroy
+    esta = 0
+    Hamburguesa.all.each do |hambur|
+      if @ingrediente.in?(hambur.ingredientes)
+        esta = 1
+      end
+    end
+    if esta == 1
+      render json: "Ingrediente no se puede borrar, se encuentra presente en una hamburguesa", status: 409
+    else
+      @ingrediente.destroy
+    end
   end
 
   private
     # Use callbacks to share common setup or constraints between actions.
     def set_ingrediente
-      @ingrediente = Ingrediente.find(params[:id])
+      #@ingrediente = Ingrediente.find(params[:id])
+      if (params[:id].to_i != 0)
+        if Ingrediente.find_by(id: params[:id])
+            @ingrediente = Ingrediente.find(params[:id])
+        else
+          render json: "ingrediente inexistente", status: 404
+        end
+      else
+        render json: "id invalido", status: 400
+      end
     end
 
     # Only allow a trusted parameter "white list" through.

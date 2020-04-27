@@ -12,7 +12,16 @@ class HamburguesasController < ApplicationController
 
   # GET /hamburguesas/1
   def show
-    render json: @hamburguesa.as_json(:except => [:created_at, :updated_at], include: { ingredientes: { only: :path } }), status: 200
+    if (params[:id].to_i != 0)
+      if Hamburguesa.find_by(id: params[:id])
+        @hamburguesa = Hamburguesa.find(params[:id])
+        render json: @hamburguesa.as_json(:except => [:created_at, :updated_at], include: { ingredientes: { only: :path } }), status: 200
+      else
+        render json: "Hamburguesa inexistente", status: 404
+      end
+    else
+      render json: "Id invalido", status: 400
+    end
   end
 
   # POST /hamburguesas
@@ -22,7 +31,7 @@ class HamburguesasController < ApplicationController
     if @hamburguesa.save
       render json: @hamburguesa.as_json(except: ["created_at", "updated_at"]), status: 201, location: @hamburguesa
     else
-      render json: @hamburguesa.errors, status: 400
+      render json: "Input invalido", status: 400
     end
   end
 
@@ -31,19 +40,29 @@ class HamburguesasController < ApplicationController
     if @hamburguesa.update(hamburguesa_params)
       render json: @hamburguesa.as_json(except: ["created_at", "updated_at"]), status: 200
     else
-      render json: @hamburguesa.errors, status: 400
+      render json: "parametros invalidos", status: 400
     end
   end
 
   # DELETE /hamburguesas/1
   def destroy
-    @hamburguesa.destroy
+      @hamburguesa.destroy
+      render json: "hamburguesa eliminada", status: 200
   end
 
   private
     # Use callbacks to share common setup or constraints between actions.
     def set_hamburguesa
-      @hamburguesa = Hamburguesa.find(params[:id])
+      #@hamburguesa = Hamburguesa.find(params[:id])
+      if (params[:id].to_i != 0)
+        if Hamburguesa.find_by(id: params[:id])
+          @hamburguesa = Hamburguesa.find(params[:id])
+        else
+          render json: "Hamburguesa inexistente", status: 404
+        end
+      else
+        render json: "Id invalido", status: 400
+      end
     end
 
     # Only allow a trusted parameter "white list" through.

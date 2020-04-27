@@ -2,23 +2,47 @@ class HamburguesaIngredientesController < ApplicationController
   before_action :set_hamburguesa_ingrediente, only: [:show, :update, :destroy]
 
   def agregar_ingredientes
-    @hamburguesa = Hamburguesa.find(params[:hamburguesa_id])
-    @ingrediente = Ingrediente.find(params[:ingrediente_id])
-    @ingrediente.path = "burger-api-taller.herokuapp.com/ingrediente/#{@ingrediente.id}"
-    esta = @ingrediente.in?(@hamburguesa.ingredientes)
-    if esta == TRUE
-      render json: @hamburguesa.errors, status: 404
+    if Hamburguesa.find_by(id: params[:hamburguesa_id])
+      @hamburguesa = Hamburguesa.find(params[:hamburguesa_id])
+      if Ingrediente.find_by(id: params[:ingrediente_id])
+        @ingrediente = Ingrediente.find(params[:ingrediente_id])
+        @ingrediente.path = "burger-api-taller.herokuapp.com/ingrediente/#{@ingrediente.id}"
+        esta = @ingrediente.in?(@hamburguesa.ingredientes)
+        if esta == TRUE
+          render json: "ingrediente ya esta en hamburguesa", status: 201
+        else
+        @hamburguesa.ingredientes << @ingrediente
+        render json: @hamburguesa.as_json(:except => [:created_at, :updated_at], include: { ingredientes: { only: :path } }), status: 201
+        end
+      else
+        render json: "Ingrediente inexistente", status: 404
+      end
     else
-    @hamburguesa.ingredientes << @ingrediente
-    render json: @hamburguesa.as_json(except: ["created_at", "updated_at"]), status: 201
+      render json: "Id de hamburguesa invalido", status: 400
     end
   end
 
   def eliminar_ingredientes
-    @hamburguesa = Hamburguesa.find(params[:hamburguesa_id])
-    @ingrediente = Ingrediente.find(params[:ingrediente_id])
-    @hamburguesa.ingredientes.delete(@ingrediente)
+    if Hamburguesa.find_by(id: params[:hamburguesa_id])
+      @hamburguesa = Hamburguesa.find(params[:hamburguesa_id])
+      if Ingrediente.find_by(id: params[:ingrediente_id])
+        @ingrediente = Ingrediente.find(params[:ingrediente_id])
+        @ingrediente.path = "burger-api-taller.herokuapp.com/ingrediente/#{@ingrediente.id}"
+        esta = @ingrediente.in?(@hamburguesa.ingredientes)
+        if esta == TRUE
+          @hamburguesa.ingredientes.delete(@ingrediente)
+          render json: "ingrediente retirado", status: 200
+        else
+        render json:"ingrediente inexistente en la hamburguesa", status: 404
+        end
+      else
+        render json: "Ingrediente inexistente", status: 404
+      end
+    else
+      render json: "Id de hamburguesa invalido", status: 400
+    end
   end
+
 
   # GET /hamburguesa_ingredientes
   def index
