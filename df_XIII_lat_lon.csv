@@ -1,0 +1,242 @@
+ID,Descripcion,ID_Comprador,Nombre_comprador,Direccion_comprador,Ciudad_comprador,Monto_Total,lat,lon,region
+40615879,Valor turno medico para el Servicio de Urgencia Infantil (DE 12 Horas) 1 DE 12,61.608.604-9,Hospital Clínico San Borja-Arriarán,Santa Rosa 1234,Santiago Centro,4464000.0,-33.4608735,-70.641939,XIII
+40247208,Turno de Anestesia para Servicio de Urgencia,61.608.407-0,Instituto de Neurocirugía,Avda. José Manuel Infante 553,,37000.0,-33.4368104,-70.6227694,XIII
+40005085,Contratación de servicios de turnos médicos para el Servicio de Urgencia Infantil (DE 12 Horas),61.608.604-9,Hospital Clínico San Borja-Arriarán,Santa Rosa 1234,Santiago Centro,47678400.0,-33.4608735,-70.641939,XIII
+39689633,Contratación de servicios de turnos médicos para el Servicio de Urgencia Infantil (DE 12 Horas),61.608.604-9,Hospital Clínico San Borja-Arriarán,Santa Rosa 1234,Santiago Centro,4804800.0,-33.4608735,-70.641939,XIII
+39689096,Contratación de servicios de turnos médicos para el Servicio de Urgencia Infantil (DE 12 Horas),61.608.604-9,Hospital Clínico San Borja-Arriarán,Santa Rosa 1234,Santiago Centro,4435200.0,-33.4608735,-70.641939,XIII
+39557857,"SERVICIO CONTRATACIÓN DE RECURSO HUMANO
+TURNOS URGENCIA PEDIÁTRICA CAMPAÑA DE INVIERNO
+AGOSTO 2018",65.075.485-9,HOSPITAL CLINICO METROPOLITANO LA FLORIDA DRA ELOI,FROILAN ROA 6542,La Florida,2950000.0,-33.5142474,-70.5996971,XIII
+39194548,"SERVICIO COBERTURA TURNOS TRAUMATOLOGÍA URGENCIA
+DR. ADOLFO BORJA CHÁVEZ
+MARZO 2019
+SOLPED 50004468",65.075.485-9,HOSPITAL CLINICO METROPOLITANO LA FLORIDA DRA ELOI,FROILAN ROA 6542,La Florida,372000.0,-33.5142474,-70.5996971,XIII
+39194548,"SERVICIO COBERTURA TURNOS TRAUMATOLOGÍA URGENCIA
+DR. DANIEL CERDA RAMOS
+MARZO 2019
+SOLPED 50004468",65.075.485-9,HOSPITAL CLINICO METROPOLITANO LA FLORIDA DRA ELOI,FROILAN ROA 6542,La Florida,496000.0,-33.5142474,-70.5996971,XIII
+39194548,"SERVICIO COBERTURA TURNOS TRAUMATOLOGÍA URGENCIA
+DR. JAVIER ARTURO GONZÁLEZ
+MARZO 2019
+SOLPED 50004468",65.075.485-9,HOSPITAL CLINICO METROPOLITANO LA FLORIDA DRA ELOI,FROILAN ROA 6542,La Florida,713000.0,-33.5142474,-70.5996971,XIII
+39194548,"SERVICIO COBERTURA TURNOS TRAUMATOLOGÍA URGENCIA
+DR. ROBERTO CISNEROS CONTRERAS
+MARZO 2019
+SOLPED 50004468",65.075.485-9,HOSPITAL CLINICO METROPOLITANO LA FLORIDA DRA ELOI,FROILAN ROA 6542,La Florida,1891000.0,-33.5142474,-70.5996971,XIII
+39194548,"SERVICIO COBERTURA TURNOS TRAUMATOLOGÍA URGENCIA
+DRA. ANDREA VARAS NEUMANN
+MARZO 2019
+SOLPED 50004468",65.075.485-9,HOSPITAL CLINICO METROPOLITANO LA FLORIDA DRA ELOI,FROILAN ROA 6542,La Florida,2170000.0,-33.5142474,-70.5996971,XIII
+39194548,"SERVICIO COBERTURA TURNOS TRAUMATOLOGÍA URGENCIA
+DR. ERASMO SANABRIA VILLAVICENCIO
+MARZO 2019
+SOLPED 50004468",65.075.485-9,HOSPITAL CLINICO METROPOLITANO LA FLORIDA DRA ELOI,FROILAN ROA 6542,La Florida,2201000.0,-33.5142474,-70.5996971,XIII
+35990157,Servicio de enfermera para realizar cuarto turno en Hospital de Coinco  en servicio de hospitalización indiferenciada y apoyo en el servicio de urgencia Turno largo  de 08:00 a 20:00 hrs y turno de noche de 20:00 a 08:00 hrs a Comenzar desde Marzo a Dicie,61.602.134-6,Hospital Coinco,Francisco Díaz Muñoz 157,Coinco,14747430.0,-34.26845,-70.95380999999999,XIII
+35845787,Servicio de enfermera para realizar cuarto turno en Hospital de Coinco  en servicio de hospitalización indiferenciada y apoyo en el servicio de urgencia Turno largo  de 08:00 a 20:00 hrs y turno de noche de 20:00 a 08:00 hrs,61.602.134-6,Hospital Coinco,Francisco Díaz Muñoz 157,Coinco,1438774.0,-34.26845,-70.95380999999999,XIII
+35624429,Servicio de enfermera para realizar cuarto turno en Hospital de Coinco  en servicio de hospitalización indiferenciada y apoyo en el servicio de urgencia Turno largo  de 08:00 a 20:00 hrs y turno de noche de 20:00 a 08:00 hrs,61.602.134-6,Hospital Coinco,Francisco Díaz Muñoz 157,Coinco,1438774.0,-34.26845,-70.95380999999999,XIII
+35428443,"SER-0013
+TURNOS DE ANESTESIA PABELLON URGENCIA
+PERIODO CORRESPONDIENTE AL MES DE SEPTIEMBRE  2017",61.608.407-0,Instituto de Neurocirugía,Avda. José Manuel Infante 553,Providencia,5580000.0,-33.4368104,-70.6227694,XIII
+35391043,"SER-0013
+TURNOS DE ANESTESIA PABELLON URGENCIA
+PERIODO CORRESPONDIENTE AL MES DE OCTUBRE  2017",61.608.407-0,Instituto de Neurocirugía,Avda. José Manuel Infante 553,Providencia,2745000.0,-33.4368104,-70.6227694,XIII
+35122407,Servicio de enfermera para realizar cuarto turno en Hospital de Coinco  en servicio de hospitalización indiferenciada y apoyo en el servicio de urgencia Turno largo  de 08:00 a 20:00 hrs y turno de noche de 20:00 a 08:00 hrs,61.602.134-6,Hospital Coinco,Francisco Díaz Muñoz 157,Coinco,1438000.0,-34.26845,-70.95380999999999,XIII
+35039148,"SER-0013
+TURNOS DE ANESTESIA PABELLON URGENCIA
+PERIODO CORRESPONDIENTE AL MES DE AGOSTO  2017",61.608.407-0,Instituto de Neurocirugía,Avda. José Manuel Infante 553,Providencia,2205000.0,-33.4368104,-70.6227694,XIII
+35023995,Servicio Turno para Servicio de Urgencia,61.608.407-0,Instituto de Neurocirugía,Avda. José Manuel Infante 553,,38800.0,-33.4368104,-70.6227694,XIII
+34972467,Servicio de enfermera para realizar cuarto turno en Hospital de Coinco  en servicio de hospitalización indiferenciada y apoyo en el servicio de urgencia Turno largo  de 08:00 a 20:00 hrs y turno de noche de 20:00 a 08:00 hrs,61.602.134-6,Hospital Coinco,Francisco Díaz Muñoz 157,Coinco,1438774.0,-34.26845,-70.95380999999999,XIII
+34785482,"SER-0013
+TURNOS DE ANESTESIA PABELLON URGENCIA
+PERIODO CORRESPONDIENTE AL MES DE JULIO  2017",61.608.407-0,Instituto de Neurocirugía,Avda. José Manuel Infante 553,Providencia,5445000.0,-33.4368104,-70.6227694,XIII
+34422414,"SER-0013
+TURNOS DE ANESTESIA PABELLON URGENCIA
+PERIODO CORRESPONDIENTE AL MES DE JUNIO  2017",61.608.407-0,Instituto de Neurocirugía,Avda. José Manuel Infante 553,Providencia,4860000.0,-33.4368104,-70.6227694,XIII
+34272931,"SER-0013
+TURNOS DE ANESTESIA PABELLON URGENCIA
+PERIODO CORRESPONDIENTE AL MES DE MAYO  2017",61.608.407-0,Instituto de Neurocirugía,Avda. José Manuel Infante 553,Providencia,1080000.0,-33.4368104,-70.6227694,XIII
+34088069,"SER-0013
+TURNOS DE ANESTESIA PABELLON URGENCIA
+PERIODO CORRESPONDIENTE AL MES DE ABRIL 2017",61.608.407-0,Instituto de Neurocirugía,Avda. José Manuel Infante 553,Providencia,10215000.0,-33.4368104,-70.6227694,XIII
+33388408,Turnos Servicio urgencia Hospital Talagante,61.602.122-2,SERVICIO NACIONAL DE SALUD HOSPITAL DE T,Balmaceda 1458,Talagante,3699900.0,-33.6678189,-70.92066489999999,XIII
+33388159,Turnos Servicio urgencia Hospital talagante,61.602.122-2,SERVICIO NACIONAL DE SALUD HOSPITAL DE T,Balmaceda 1458,Talagante,6166500.0,-33.6678189,-70.92066489999999,XIII
+33388088,Turnos Servicio Urgencia Hospital talagante,61.602.122-2,SERVICIO NACIONAL DE SALUD HOSPITAL DE T,Balmaceda 1458,Talagante,6166500.0,-33.6678189,-70.92066489999999,XIII
+33388024,turnos Servicio  urgencia,61.602.122-2,SERVICIO NACIONAL DE SALUD HOSPITAL DE T,Balmaceda 1458,Talagante,2055500.0,-33.6678189,-70.92066489999999,XIII
+33387985,Turnos Servicio Urgencia Hospital Talagante,61.602.122-2,SERVICIO NACIONAL DE SALUD HOSPITAL DE T,Balmaceda 1458,Talagante,1027500.0,-33.6678189,-70.92066489999999,XIII
+33212779,"SERVICIO DE ANESTESIA PARA CIRUGIAS DE PACIENTES PEDIATRICOS Y ADULTOS EN LAS MODALIDADES PROGRAMADA, NO PROGRAMADA, TURNOS SERVICIO DE URGENCIA Y ANESTESIA PARA PROCEDIMIENTOS DIAGNOSTICOS Y TERAPEUTICOS NEURORRADIOLOGICOS",61.608.407-0,Instituto de Neurocirugía,Avda. José Manuel Infante 553,,229000000.0,-33.4368104,-70.6227694,XIII
+31910930,Turnos de Enfermera días hábiles de  9 horas Unidad Paciente Crítico y urgencia,61.608.502-6,COMPLEJO ASISTENCIAL DR. SOTERO DEL RIO,AV CONCHA Y TORO 3459,,92700.0,-33.5777846,-70.5802236,XIII
+31910930,Turnos de Enfermera días hábiles  12 horas Unidad Paciente Crítico y Urgencia.,61.608.502-6,COMPLEJO ASISTENCIAL DR. SOTERO DEL RIO,AV CONCHA Y TORO 3459,,123600.0,-33.5777846,-70.5802236,XIII
+31910930,Turnos de Enfermera Nocturno y Festivos  12 horas Unidad Paciente Crítico y Urgencia,61.608.502-6,COMPLEJO ASISTENCIAL DR. SOTERO DEL RIO,AV CONCHA Y TORO 3459,,134400.0,-33.5777846,-70.5802236,XIII
+30232090,"Consulta oftalmológica de urgencia en horario inhábil-nocturno, segun especificaciones técnicas",61.606.602-1,Hospital Dr. Gustavo Fricke,Alvarez 1532,,100000.0,-33.029526,-71.54239,XIII
+29862966,Turnos de Enfermera días hábiles de  9 horas Unidad Paciente Crítico y urgencia.,61.608.502-6,COMPLEJO ASISTENCIAL DR. SOTERO DEL RIO,AV CONCHA Y TORO 3459,,90000.0,-33.5777846,-70.5802236,XIII
+29862966,Turnos de Enfermera días hábiles  12 horas Unidad Paciente Crítico y Urgencia.,61.608.502-6,COMPLEJO ASISTENCIAL DR. SOTERO DEL RIO,AV CONCHA Y TORO 3459,,120000.0,-33.5777846,-70.5802236,XIII
+29862966,Turnos de Enfermera Nocturno y Festivos  12 horas Unidad Paciente Crítico y Urgencia,61.608.502-6,COMPLEJO ASISTENCIAL DR. SOTERO DEL RIO,AV CONCHA Y TORO 3459,,132000.0,-33.5777846,-70.5802236,XIII
+28465609,Prestaciones de Servicios de Turnos realizados en el Servicio de Urgencia Infantil Mes MAYO 2015,61.608.604-9,SERV SALUD METROPOLITANO CENTRAL HOSPITAL CLINICO SAN BORJA ARRIARAN,Santa Rosa 1234 ,Santiago,5866608.0,-33.4608735,-70.641939,XIII
+28217267,Prestaciones de Servicios de Turnos realizados en el Servicio de Urgencia Infantil Mes ABRIL 2015,61.608.604-9,SERV SALUD METROPOLITANO CENTRAL HOSPITAL CLINICO SAN BORJA ARRIARAN,Santa Rosa 1234 ,Santiago,6577712.0,-33.4608735,-70.641939,XIII
+28045553,Prestaciones de Servicios de Turnos realizados en el Servicio de Urgencia Infantil Mes MARZO 2015,61.608.604-9,SERV SALUD METROPOLITANO CENTRAL HOSPITAL CLINICO SAN BORJA ARRIARAN,Santa Rosa 1234 ,Santiago,5688832.0,-33.4608735,-70.641939,XIII
+28007025,"TURNO CORTO DE ENFERMERÍA URGENCIA,CORRESPONDIENTE AL MES DE FEBRERO 2015.",61.608.407-0,Instituto de Neurocirugía,Avda. José Manuel Infante 553,Providencia,1425000.0,-33.4368104,-70.6227694,XIII
+27867028,TURNO ENFERMERÍA CORTO SERVICIO DE URGENCIA,61.608.407-0,Instituto de Neurocirugía,Avda. José Manuel Infante 553,Providencia,1575000.0,-33.4368104,-70.6227694,XIII
+27780215,Prestaciones de Servicios de Turnos realizados en el Servicio de Urgencia Infantil MES FEBRERO 2015,61.608.604-9,SERV SALUD METROPOLITANO CENTRAL HOSPITAL CLINICO SAN BORJA ARRIARAN,Santa Rosa 1234 ,Santiago,2133455.0,-33.4608735,-70.641939,XIII
+26858616,Prestaciones de Servicios de Turnos realizados en el Servicio de Urgencia Infantil Campaña de Invierno Alerta Sanitaria en el mes de Julio  y Agosto 2014.,61.608.604-9,SERV SALUD METROPOLITANO CENTRAL HOSPITAL CLINICO SAN BORJA ARRIARAN,Santa Rosa 1234 ,Santiago,9888968.0,-33.4608735,-70.641939,XIII
+26858054,Prestaciones de Servicios de Turnos realizados en el Servicio de Urgencia Infantil en el mes de Septiembre 2014,61.608.604-9,SERV SALUD METROPOLITANO CENTRAL HOSPITAL CLINICO SAN BORJA ARRIARAN,Santa Rosa 1234 ,Santiago,17333160.0,-33.4608735,-70.641939,XIII
+26527229,Prestaciones de Servicios de Turnos realizados en el Servicio de Urgencia Infantil en el mes de Agosto 2014,61.608.604-9,SERV SALUD METROPOLITANO CENTRAL HOSPITAL CLINICO SAN BORJA ARRIARAN,Santa Rosa 1234 ,Santiago,9777680.0,-33.4608735,-70.641939,XIII
+26349842,Prestaciones de Servicios de Turnos realizados en el Servicio de Urgencia Infantil en el mes de Mayo y Junio del 2014.,61.608.604-9,SERV SALUD METROPOLITANO CENTRAL HOSPITAL CLINICO SAN BORJA ARRIARAN,Santa Rosa 1234 ,Santiago,3466632.0,-33.4608735,-70.641939,XIII
+26349842,Prestaciones de Servicios de Turnos realizados en el Servicio de Urgencia Infantil en el mes de Julio del 2014.,61.608.604-9,SERV SALUD METROPOLITANO CENTRAL HOSPITAL CLINICO SAN BORJA ARRIARAN,Santa Rosa 1234 ,Santiago,8422138.0,-33.4608735,-70.641939,XIII
+26010166,"Hemodiálisis Convencional con Bicarbonato de urgencia, Nocturno; Domingo y Festivos, Hasta 5 horas",65.075.485-9,HOSPITAL CLINICO METROPOLITANO LA FLORIDA DRA ELOISA DIAZ INSUNZA,FROILAN ROA 6542,,195800.0,-33.5142474,-70.5996971,XIII
+26010166,"Hemodiálisis Convencional con Bicarbonato de urgencia, Nocturno; Domingo y Festivos, > a 5 horas",65.075.485-9,HOSPITAL CLINICO METROPOLITANO LA FLORIDA DRA ELOISA DIAZ INSUNZA,FROILAN ROA 6542,,248600.0,-33.5142474,-70.5996971,XIII
+25929070,Prestaciones de Servicios de Turnos realizados en el Servicio de Urgencia Infantil en el mes de Mayo del 2014.,61.608.604-9,SERV SALUD METROPOLITANO CENTRAL HOSPITAL CLINICO SAN BORJA ARRIARAN,Santa Rosa 1234 ,Santiago,8133252.0,-33.4608735,-70.641939,XIII
+25773066,Prestaciones de Servicios de Turnos realizados en el Servicio de Urgencia Infantil en el mes de Abril del 2014.,61.608.604-9,SERV SALUD METROPOLITANO CENTRAL HOSPITAL CLINICO SAN BORJA ARRIARAN,Santa Rosa 1234 ,Santiago,5599944.0,-33.4608735,-70.641939,XIII
+25455011,Prestaciones de Servicios de Turnos realizados en el Servicio de Urgencia Infantil en el mes de Marzo del 2014.,61.608.604-9,SERV SALUD METROPOLITANO CENTRAL HOSPITAL CLINICO SAN BORJA ARRIARAN,Santa Rosa 1234 ,Santiago,11999880.0,-33.4608735,-70.641939,XIII
+25454688,Prestaciones de Servicios de Turnos realizados en el Servicio de Urgencia Infantil en el mes de febrero del 2014.,61.608.604-9,SERV SALUD METROPOLITANO CENTRAL HOSPITAL CLINICO SAN BORJA ARRIARAN,Santa Rosa 1234 ,Santiago,2959980.0,-33.4608735,-70.641939,XIII
+24169433,Turno de Anestesia de 12 horas para Servicio de Urgencia,61.608.407-0,Instituto de Neurocirugía,Avda. José Manuel Infante 553,,420000.0,-33.4368104,-70.6227694,XIII
+24169433,Turno de Anestesia de 12 horas para Servicio de Urgencia en días festivos,61.608.407-0,Instituto de Neurocirugía,Avda. José Manuel Infante 553,,480000.0,-33.4368104,-70.6227694,XIII
+24169433,Turno de Anestesia de 24 horas para Servicio de Urgencia,61.608.407-0,Instituto de Neurocirugía,Avda. José Manuel Infante 553,,840000.0,-33.4368104,-70.6227694,XIII
+24169433,Turno de Anestesia de 24 horas para Servicio de Urgencia en días festivos.,61.608.407-0,Instituto de Neurocirugía,Avda. José Manuel Infante 553,,960000.0,-33.4368104,-70.6227694,XIII
+23153972,"Turnos de Técnico Paramédico de 9 horas en días hábiles, en Unidad de Paciente crítico y urgencia, adulto e infantil",61.608.502-6,COMPLEJO ASISTENCIAL DR. SOTERO DEL RIO,AV CONCHA Y TORO 3459,,27000.0,-33.5777846,-70.5802236,XIII
+23153972,"Turnos de Técnico Paramédico de 12 horas en días hábiles, en unidad de paciente crítico y urgencia, adulto e infantil",61.608.502-6,COMPLEJO ASISTENCIAL DR. SOTERO DEL RIO,AV CONCHA Y TORO 3459,,36000.0,-33.5777846,-70.5802236,XIII
+23153972,"Turnos de Técnico Paramédico nocturnos y festivos en unidad de paciente crítico y urgencia, adulto e infantil",61.608.502-6,COMPLEJO ASISTENCIAL DR. SOTERO DEL RIO,AV CONCHA Y TORO 3459,,38400.0,-33.5777846,-70.5802236,XIII
+23153972,"Turnos de Enfermería de 9 horas en días hábiles , en Unidad de Paciente crítico y urgencia, adulto e infantil.",61.608.502-6,COMPLEJO ASISTENCIAL DR. SOTERO DEL RIO,AV CONCHA Y TORO 3459,,76500.0,-33.5777846,-70.5802236,XIII
+23153972,"Turnos de enfermería de 12 horas en días hábiles, en unidad de paciente crítico y urgencia, adulto e infantil",61.608.502-6,COMPLEJO ASISTENCIAL DR. SOTERO DEL RIO,AV CONCHA Y TORO 3459,,102000.0,-33.5777846,-70.5802236,XIII
+23153972,"Turnos de enfermería nocturnos y festivos en unidad de paciente crítico y urgencia, adulto e infantil.",61.608.502-6,COMPLEJO ASISTENCIAL DR. SOTERO DEL RIO,AV CONCHA Y TORO 3459,,104400.0,-33.5777846,-70.5802236,XIII
+22993626,TURNO ADICIONAL POSTA URGENCIA,61.608.107-1,Hospital El Pino,Avda. Los Morros 13560,Santiago,530460.0,-33.5437793,-70.6646116,XIII
+22728237,TURNO ADICIONAL POSTA URGENCIA,61.608.107-1,Hospital El Pino,Avda. Los Morros 13560,Santiago,530460.0,-33.5437793,-70.6646116,XIII
+22478750,TURNO ADICIONAL POSTA URGENCIA,61.608.107-1,Hospital El Pino,Avda. Los Morros 13560,Santiago,530460.0,-33.5437793,-70.6646116,XIII
+22255875,TURNO ADICIONAL POSTA URGENCIA,61.608.107-1,Hospital El Pino,Avda. Los Morros 13560,Santiago,530460.0,-33.5437793,-70.6646116,XIII
+22248090,Turno de Anestesia de 12 horas para Servicio de Urgencia en días festivos,61.608.407-0,Instituto de Neurocirugía,Avda. José Manuel Infante 553,,390000.0,-33.4368104,-70.6227694,XIII
+22248090,Turno de Anestesia de 12 horas para Servicio de Urgencia,61.608.407-0,Instituto de Neurocirugía,Avda. José Manuel Infante 553,,390000.0,-33.4368104,-70.6227694,XIII
+22248090,Turno de Anestesia de 12 horas para Servicio de Urgencia en días festivos especiales,61.608.407-0,Instituto de Neurocirugía,Avda. José Manuel Infante 553,,470000.0,-33.4368104,-70.6227694,XIII
+22248090,Turno de Anestesia de 24 horas para Servicio de Urgencia en días festivos.,61.608.407-0,Instituto de Neurocirugía,Avda. José Manuel Infante 553,,780000.0,-33.4368104,-70.6227694,XIII
+22248090,Turno de Anestesia de 24 horas para Servicio de Urgencia,61.608.407-0,Instituto de Neurocirugía,Avda. José Manuel Infante 553,,780000.0,-33.4368104,-70.6227694,XIII
+22212455,77-002-004-008-00 TURNO LARGO ENFERMERA (DE 21:30 A 08:00 HRS URGENCIA PEDIATRICA),61.608.502-6,COMPLEJO ASISTENCIAL DR. SOTERO DEL RIO,AV CONCHA Y TORO 3459,Puente Alto,93625.0,-33.5777846,-70.5802236,XIII
+22212455,77-002-004-002-00 TURNO LARGO TEC. PARAMEDICO  URGENCIA PEDIATRICA),61.608.502-6,COMPLEJO ASISTENCIAL DR. SOTERO DEL RIO,AV CONCHA Y TORO 3459,Puente Alto,231000.0,-33.5777846,-70.5802236,XIII
+22212455,77-002-004-008-00 TURNO LARGO ENFERMERA (URGENCIA PEDIATRICA),61.608.502-6,COMPLEJO ASISTENCIAL DR. SOTERO DEL RIO,AV CONCHA Y TORO 3459,Puente Alto,309000.0,-33.5777846,-70.5802236,XIII
+22212455,77-002-004-003-00 TURNO NOCHE Y/O FESTIVO TEC. PARAMEDICO (URGENCIA PEDIATRICA),61.608.502-6,COMPLEJO ASISTENCIAL DR. SOTERO DEL RIO,AV CONCHA Y TORO 3459,Puente Alto,420000.0,-33.5777846,-70.5802236,XIII
+22212455,77-002-004-009-00 TURNO NOCHE Y/O FESTIVO ENFERMERA (URGENCIA PEDIATRICA),61.608.502-6,COMPLEJO ASISTENCIAL DR. SOTERO DEL RIO,AV CONCHA Y TORO 3459,Puente Alto,1070000.0,-33.5777846,-70.5802236,XIII
+22094515,código 5000022 Registro entrega de turno médico servicio de urgencia HSALL,61.606.611-0,Hospital La Ligua,Diego Portales 1020,,800.0,-33.4498654,-70.6616465,XIII
+22052882,TURNO ADICIONAL POSTA URGENCIA,61.608.107-1,Hospital El Pino,Avda. Los Morros 13560,Santiago,530460.0,-33.5437793,-70.6646116,XIII
+22026496,TURNO LARGO ENFERMERA (URGENCIA PEDIATRICA),61.608.502-6,COMPLEJO ASISTENCIAL DR. SOTERO DEL RIO,AV CONCHA Y TORO 3459,Puente Alto,412000.0,-33.5777846,-70.5802236,XIII
+22026496,TURNO NOCHE Y/O FESTIVO ENFERMERA (URGENCIA PEDIATRICA),61.608.502-6,COMPLEJO ASISTENCIAL DR. SOTERO DEL RIO,AV CONCHA Y TORO 3459,Puente Alto,642000.0,-33.5777846,-70.5802236,XIII
+21768137,TURNO ADICIONAL POSTA URGENCIA,61.608.107-1,Hospital El Pino,Avda. Los Morros 13560,Santiago,530460.0,-33.5437793,-70.6646116,XIII
+21294893,Turno de Anestesista en Urgencia de 24 horas,61.608.502-6,COMPLEJO ASISTENCIAL DR. SOTERO DEL RIO,AV CONCHA Y TORO 3459,,41559840.0,-33.5777846,-70.5802236,XIII
+20256709,"Turnos de Tecnico Paramedico diurnos de 9 horas, en Unidad de Paciente Critico y Urgencia, adulto e infantil",61.608.502-6,COMPLEJO ASISTENCIAL DR. SOTERO DEL RIO,AV CONCHA Y TORO 3459,,28000.0,-33.5777846,-70.5802236,XIII
+20256709,"Turnos de Tecnico Paramedico diurnos largos de 12 horas, en Unidad de PAciente Critico y Urgencia, adulto e infantil",61.608.502-6,COMPLEJO ASISTENCIAL DR. SOTERO DEL RIO,AV CONCHA Y TORO 3459,,33000.0,-33.5777846,-70.5802236,XIII
+20256709,"Turnos de Tecnico Paramedico nocturnos y festivos en Unidad de Paciente Critico y Urgencia, adulto e infantil",61.608.502-6,COMPLEJO ASISTENCIAL DR. SOTERO DEL RIO,AV CONCHA Y TORO 3459,,35000.0,-33.5777846,-70.5802236,XIII
+20256709,"Turnos de enfermería diurnos de 9 horas, en Unidad de Paciente Critico y Urgencia, adulto e infantil",61.608.502-6,COMPLEJO ASISTENCIAL DR. SOTERO DEL RIO,AV CONCHA Y TORO 3459,,81000.0,-33.5777846,-70.5802236,XIII
+20256709,"Turnos de enfermería diurnos largos de 12 horas, en Unidad de Paciente Critico y Urgencia, adulto e infantil",61.608.502-6,COMPLEJO ASISTENCIAL DR. SOTERO DEL RIO,AV CONCHA Y TORO 3459,,103000.0,-33.5777846,-70.5802236,XIII
+20256709,"Turnos de enfermería nocturnos y festivos en Unidad de Paciente Critico y Urgencia, adulto e infantil",61.608.502-6,COMPLEJO ASISTENCIAL DR. SOTERO DEL RIO,AV CONCHA Y TORO 3459,,107000.0,-33.5777846,-70.5802236,XIII
+19708593,Turno de 11:30 a 20:30 hrs. Urgencia Febrero 2012,61.608.502-6,COMPLEJO ASISTENCIAL DR. SOTERO DEL RIO,AV CONCHA Y TORO 3459,Puente Alto,385000.0,-33.5777846,-70.5802236,XIII
+19708593,"Turnos festivo, noche U. Intermedio, Urgencia Febrero 2012",61.608.502-6,COMPLEJO ASISTENCIAL DR. SOTERO DEL RIO,AV CONCHA Y TORO 3459,Puente Alto,1442000.0,-33.5777846,-70.5802236,XIII
+19509852,Turno de 14:00 a 20:30 hrs. Urgencia Enero 2012,61.608.502-6,COMPLEJO ASISTENCIAL DR. SOTERO DEL RIO,AV CONCHA Y TORO 3459,Puente Alto,55607.0,-33.5777846,-70.5802236,XIII
+19509852,Turno de 11:30 a 20:30 hrs. Urgencia Enero 2012,61.608.502-6,COMPLEJO ASISTENCIAL DR. SOTERO DEL RIO,AV CONCHA Y TORO 3459,Puente Alto,1463000.0,-33.5777846,-70.5802236,XIII
+19337226,Turno de Anestesia de 12 horas para Servicio de Urgencia,61.608.407-0,Instituto de Neurocirugía,Avda. José Manuel Infante 553,*,360000.0,-33.4368104,-70.6227694,XIII
+19337226,Turno de Anestesia de 12 horas para Servicio de Urgencia en días festivos,61.608.407-0,Instituto de Neurocirugía,Avda. José Manuel Infante 553,*,400000.0,-33.4368104,-70.6227694,XIII
+19337226,Turno de Anestesia de 12 horas para Servicio de Urgencia en días festivos especiales,61.608.407-0,Instituto de Neurocirugía,Avda. José Manuel Infante 553,*,450000.0,-33.4368104,-70.6227694,XIII
+19337226,Turno de Anestesia de 24 horas para Servicio de Urgencia,61.608.407-0,Instituto de Neurocirugía,Avda. José Manuel Infante 553,*,720000.0,-33.4368104,-70.6227694,XIII
+19337226,Turno de Anestesia de 24 horas para Servicio de Urgencia en días festivos.,61.608.407-0,Instituto de Neurocirugía,Avda. José Manuel Infante 553,*,800000.0,-33.4368104,-70.6227694,XIII
+19263856,"Turno de enfermera largo 12 horas, en Unidad de Paciente Crítico y Urgencias",61.608.502-6,COMPLEJO ASISTENCIAL DR. SOTERO DEL RIO,AV CONCHA Y TORO 3459,Puente Alto,495000.0,-33.5777846,-70.5802236,XIII
+18565953,2 TURNOS ADICIONALES URGENCIA,61.608.107-1,Hospital El Pino,Avda. Los Morros 13560,Santiago,530460.0,-33.5437793,-70.6646116,XIII
+18272281,2 TURNOS ADICIONALES EN POSTA URGENCIA,61.608.107-1,Hospital El Pino,Avda. Los Morros 13560,Santiago,530460.0,-33.5437793,-70.6646116,XIII
+18177907,"Turno diurno de Técnico Paramédico, 12 horas. en Servicio de Urgencia Adulto",61.608.500-K,SERVICIO DE SALUD METROPOLITANO SUR ORIENTE,Avenida Froilán Roa Nº 6420,La Florida,56000.0,-33.5124963,-70.6005801,XIII
+18177907,"Turno noche/festivo de Tédnico Paramédico, 12 horas, en Servicio de Urgencia Adulto",61.608.500-K,SERVICIO DE SALUD METROPOLITANO SUR ORIENTE,Avenida Froilán Roa Nº 6420,La Florida,64000.0,-33.5124963,-70.6005801,XIII
+18177907,"Turno diurno de Enfermera, 12 horas, en Unidad de Urgencia Adulto",61.608.500-K,SERVICIO DE SALUD METROPOLITANO SUR ORIENTE,Avenida Froilán Roa Nº 6420,La Florida,93000.0,-33.5124963,-70.6005801,XIII
+18177907,"Turno noche/festivo de enfermera, 12 horas, en Servicio de Urgencia Adulto",61.608.500-K,SERVICIO DE SALUD METROPOLITANO SUR ORIENTE,Avenida Froilán Roa Nº 6420,La Florida,98000.0,-33.5124963,-70.6005801,XIII
+17856074,2 TURNOS ADICIONALES POSTA URGENCIA (15 DIAS JUNIO),61.608.107-1,Hospital El Pino,Avda. Los Morros 13560,Santiago,265230.0,-33.5437793,-70.6646116,XIII
+17856074,TURNO ADICIONAL POSTA URGENCIA,61.608.107-1,Hospital El Pino,Avda. Los Morros 13560,Santiago,530460.0,-33.5437793,-70.6646116,XIII
+17840428,Turno de Anestesia de 12 horas para Servicio de Urgencia,61.608.407-0,Instituto de Neurocirugía,Avda. José Manuel Infante 553,*,330000.0,-33.4368104,-70.6227694,XIII
+17840428,Turno de Anestesia de 24 horas para Servicio de Urgencia,61.608.407-0,Instituto de Neurocirugía,Avda. José Manuel Infante 553,*,660000.0,-33.4368104,-70.6227694,XIII
+16429714,"Alojamiento y alimentación de paramédico Srta Laura M. Ojeda, por remplazo turnos de urgencia posta Río Púelo dias 17,18 y 19 de Enero del 2011.-",61.932.200-2,Ilustre Municipalidad de Cochamó - Salud,Santiago Bueras S/N,Cochamó,30000.0,-33.4488897,-70.6692655,XIII
+16205624,"Traslado Conductor DESAM Sr. Sergio Cuevas Mansilla desde Río Puelo a Cochamó, por ir a buscar ambulancia por turno de urgencias, con fecha 01/09/2009.",61.932.200-2,Ilustre Municipalidad de Cochamó - Salud,Santiago Bueras S/N,Cochamó,30000.0,-33.4488897,-70.6692655,XIII
+14939742,"turnos diurnos de 9 horas de técnico paramédico en unidad de paciente crítico y urgencia, adulto y pediátrico.",61.608.502-6,COMPLEJO ASISTENCIAL DR. SOTERO DEL RIO,AV CONCHA Y TORO 3459,*,28000.0,-33.5777846,-70.5802236,XIII
+14939742,"turnos diurnos de 12 horas de técnico paramédico en unidad de paciente crítico y urgencia, adulto y pediátrico",61.608.502-6,COMPLEJO ASISTENCIAL DR. SOTERO DEL RIO,AV CONCHA Y TORO 3459,*,32000.0,-33.5777846,-70.5802236,XIII
+14939742,"turnos de técnico paramédico nocturnos y festivos en unidad de paciente crítico y urgencia, adulto y pediátrico.",61.608.502-6,COMPLEJO ASISTENCIAL DR. SOTERO DEL RIO,AV CONCHA Y TORO 3459,*,34000.0,-33.5777846,-70.5802236,XIII
+14939742,"Turnos de Enfermería diurnos de 9 horas, en Unidad de Paciente crítico y urgencia, adulto e infantil.",61.608.502-6,COMPLEJO ASISTENCIAL DR. SOTERO DEL RIO,AV CONCHA Y TORO 3459,*,77000.0,-33.5777846,-70.5802236,XIII
+14939742,"Turnos de enfermería diurnos largos de 12 horas, en unidad de paciente crítico y urgencia, adulto e infantil",61.608.502-6,COMPLEJO ASISTENCIAL DR. SOTERO DEL RIO,AV CONCHA Y TORO 3459,*,99000.0,-33.5777846,-70.5802236,XIII
+14939742,"turnos de enfermería nocturnos y festivos en unidad de paciente crítico y urgencia, adulto e infantil",61.608.502-6,COMPLEJO ASISTENCIAL DR. SOTERO DEL RIO,AV CONCHA Y TORO 3459,*,103000.0,-33.5777846,-70.5802236,XIII
+14755539,Turno de Anestesia de 12 horas para Servicio de Urgencia,61.608.407-0,Instituto de Neurocirugía,Avda. José Manuel Infante 553,*,280000.0,-33.4368104,-70.6227694,XIII
+14755539,Turno de Anestesia de 24 horas para Servicio de Urgencia,61.608.407-0,Instituto de Neurocirugía,Avda. José Manuel Infante 553,*,550000.0,-33.4368104,-70.6227694,XIII
+14631755,"ADQUISICION DEL SERVICIO CORRECTIVO, DIAGNOSTICO, REPARACIONES Y REPOSICION DE PARTES, PIEZAS, ELEMENTOS AL HOSPITAL DE CAMPAÑA DESPLEGADO EN LA CIUDAD DE TALCA. CONSIDERA DOS EQUIPOS DE A.A. SPLIT 36000BTU/, AIRWELL, SERVICIO DE URGENCIA A MODULOS ""UCI"" Y ""RX"". SERVICIO EJECUTADO EN HORARIO DIURNO Y NOCTURNO SEGUN INFORME TECNICO1199.",61.101.008-7,Batallón Logistico del Ejercito Nº1 Bellavista,Avenida Guanaco  2650,Conchalí,1356986.0,-33.4011705,-70.6580744,XIII
+14082014,"SERVICIOS DE ANESTESISTA EN TURNOS DE URGENCIAS, POR 12 Hrs. PRESENCIALES DE LUNES A DOMINGOS, A REALIZARSE EN HOSPITAL DE QUILPUÉ, SEGÚN BASES TECNICAS ADJUNTAS (VALOR REFERENCIAL POR TURNO $ 180.000.-).",61.606.604-8,Hospital Quilpué,SAN MARTIN 1270,,300000.0,-33.00945310000001,-71.55152190000001,XIII
+13674184,servicio de anestesia para turnos de urgencia. Indicar el valor unitario de la hora.,61.606.602-1,Hospital Dr. Gustavo Fricke,Alvarez 1532,,3600000.0,-33.029526,-71.54239,XIII
+13052530,Colaciones desayunos entregados al personal saliente de turno de Urgencia.,61.608.002-4,Hospital San José,San José 1196,Independencia,1683111.76,-33.4163355,-70.65306819999999,XIII
+13052092,Colaciones desayunos entregados al personal saliente de turno de Urgencia.,61.608.002-4,Hospital San José,San José 1196,Independencia,1661555.08,-33.4163355,-70.65306819999999,XIII
+13051933,Colaciones desayunos entregados al personal saliente de turno de Urgencia.,61.608.002-4,Hospital San José,San José 1196,Independencia,393937.76,-33.4163355,-70.65306819999999,XIII
+12339931,Colaciones desayunos entregados al personal saliente de turno de Urgencia.,61.608.002-4,Hospital San José,San José 1196,Independencia,377875.92,-33.4163355,-70.65306819999999,XIII
+12339877,Colaciones desayunos entregados al personal saliente de turno de Urgencia,61.608.002-4,Hospital San José,San José 1196,Independencia,396051.16,-33.4163355,-70.65306819999999,XIII
+12339767,Colaciones desayunos entregados al personal saliente de turno de Urgencia.,61.608.002-4,Hospital San José,San José 1196,Independencia,369422.32,-33.4163355,-70.65306819999999,XIII
+12339674,Colaciones desayunos entregados al personal saliente de turno de Urgencia.,61.608.002-4,Hospital San José,San José 1196,Independencia,412958.36,-33.4163355,-70.65306819999999,XIII
+12339388,Colaciones desayunos entregados al personal saliente de turno de Urgencia.,61.608.002-4,Hospital San José,San José 1196,Independencia,371113.04,-33.4163355,-70.65306819999999,XIII
+12234399,"turnos de enfermería en servicio urgencia en horario nocturno (20:30 a 08:30), feriado y/o fin de semana, los turnos se realizarán durante un año calendario",61.608.500-K,  ,Avenida Froilán Lagos S. Nº 1177,La Florida,9120000.0,-33.5141221,-70.59408619999999,XIII
+12234399,"turnos de enfermería en servicio urgencia en horario de 08:30 a 20:30 horas de lunes a viernes, los turnos se realizarán durante un año calendario",61.608.500-K,  ,Avenida Froilán Lagos S. Nº 1177,La Florida,10800000.0,-33.5141221,-70.59408619999999,XIII
+11745499,"TURNOS DE TECNICOS PARAMEDICOS DE 12 HRS. POR URGENCIA DE INFLUENZA HUMANA.-
+COMPRA POR URGENCIA.-",61.608.402-k,Instituto Nacional del Torax,JOSE MANUEL INFANTE 717,Providencia,447900.0,-33.4380845,-70.621941,XIII
+11353975,Turnos Diurnos en Unidades de paciente crítico y de urgencia Adultos y Pediatria,61.608.502-6,COMPLEJO ASISTENCIAL DR. SOTERO DEL RIO,AV CONCHA Y TORO 3459,*,90000.0,-33.5777846,-70.5802236,XIII
+11353975,Turnos nocturnos en Unidades ´de paciente crítico y de urgencia Adultos y Pediatria,61.608.502-6,COMPLEJO ASISTENCIAL DR. SOTERO DEL RIO,AV CONCHA Y TORO 3459,*,95000.0,-33.5777846,-70.5802236,XIII
+11353975,Turnos Festivos en Unidades de paciente crítico y de urgencia Adultos y Pediatria,61.608.502-6,COMPLEJO ASISTENCIAL DR. SOTERO DEL RIO,AV CONCHA Y TORO 3459,*,95000.0,-33.5777846,-70.5802236,XIII
+11187276,Colaciones desayunos entregados al personal saliente de turno de Urgencia.,61.608.002-4,Hospital San José,San Jose 1196,Independencia,401546.0,-33.4163355,-70.65306819999999,XIII
+11123335,Colaciones desayunos entregados al personal saliente de turno de Urgencia.,61.608.002-4,Hospital San José,San Jose 1196,Independencia,348711.0,-33.4163355,-70.65306819999999,XIII
+11018507,Colaciones desayunos entregados al personal saliente de turno de Urgencia,61.608.002-4,Hospital San José,San Jose 1196,Independencia,384407.76,-33.4163355,-70.65306819999999,XIII
+11018502,Colaciones desayunos entregados al personal saliente de turno de Urgencia,61.608.002-4,Hospital San José,San Jose 1196,Independencia,391236.32,-33.4163355,-70.65306819999999,XIII
+11018493,Colaciones desayunos entregados al personal saliente de turno de Urgencia,61.608.002-4,Hospital San José,San Jose 1196,Independencia,352675.04,-33.4163355,-70.65306819999999,XIII
+11018480,Colaciones desayunos entregados al personal saliente de turno de Urgencia,61.608.002-4,Hospital San José,San Jose 1196,Independencia,377980.88,-33.4163355,-70.65306819999999,XIII
+11018441,Colaciones desayunos entregados al personal saliente de turno de Urgencia,61.608.002-4,Hospital San José,San Jose 1196,Independencia,343838.08,-33.4163355,-70.65306819999999,XIII
+11018361,Colaciones desayunos entregados al personal saliente de turno de Urgencia,61.608.002-4,Hospital San José,San Jose 1196,Independencia,375570.8,-33.4163355,-70.65306819999999,XIII
+11018297,Colaciones desayunos entregados al personal saliente de turno de Urgencia,61.608.002-4,Hospital San José,San Jose 1196,Independencia,386735.58,-33.4163355,-70.65306819999999,XIII
+11018232,Colaciones y desayunos entregados  al personal saliente de turno de  Urgencia,61.608.002-4,Hospital San José,San Jose 1196,Independencia,375452.55,-33.4163355,-70.65306819999999,XIII
+10742541,"CORRESPONDE A SERVICIO DE ASEO EN : UCI , URGENCIA NOCTURNO Y CENTRO DE MAMAS, SEGUN FACTURAS  Nº7004,
+7005 Y 7006.-",61.608.101-2,SERVICIO DE SALUD METROPOLITANO SUR HOSP,Gran Avenida 3204,San Miguel,930000.0,-33.4842176,-70.6494656,XIII
+27175514,Turno de servicio de urgencia 6 de diciembre 2014,61.602.123-0,SERVICIO NACIONAL DE SALUD HOSPITAL DE MELIPILLA,O Higgins 551,Santiago,303750.0,-33.5921551,-70.7031219,XIII
+27175512,Turnos de urgencia 14 y 15 noviembre,61.602.123-0,SERVICIO NACIONAL DE SALUD HOSPITAL DE MELIPILLA,O Higgins 551,Santiago,449550.0,-33.5921551,-70.7031219,XIII
+25757746,"TURNO TPM AMBULANCIA, PENSIONADO, URGENCIA LARGO/NOCHE Y/O FESTIVO",61.602.123-0,SERVICIO NACIONAL DE SALUD HOSPITAL DE MELIPILLA,O Higgins 551,Melipilla,4395600.0,-33.6952509,-71.2152322,XIII
+25538967,"TURNOS ENFERMEROS URGENCIA LARGO, NOCHE Y/O FESTIVO",61.602.123-0,SERVICIO NACIONAL DE SALUD HOSPITAL DE MELIPILLA,O Higgins 551,Melipilla,7076000.0,-33.6952509,-71.2152322,XIII
+25538770,"105 TURNO TPM AMBULANCIA, PABELLON, PENSIONADO, URGENCIA LARGO NOCHE",61.602.123-0,SERVICIO NACIONAL DE SALUD HOSPITAL DE MELIPILLA,O Higgins 551,Melipilla,4662000.0,-33.6952509,-71.2152322,XIII
+25298044,"TURNOS ENFERMEROS URGENCIA LARGO, NOCHE Y/O FESTIVO",61.602.123-0,SERVICIO NACIONAL DE SALUD HOSPITAL DE MELIPILLA,O Higgins 551,Melipilla,7192000.0,-33.6952509,-71.2152322,XIII
+25297598,"105 TURNO TPM AMBULANCIA, PABELLON, PENSIONADO, URGENCIA LARGO NOCHE",61.602.123-0,SERVICIO NACIONAL DE SALUD HOSPITAL DE MELIPILLA,O Higgins 551,Melipilla,4662000.0,-33.6952509,-71.2152322,XIII
+25094504,56 TURNOS URGENCIA LARGO/NOCHE,61.602.123-0,SERVICIO NACIONAL DE SALUD HOSPITAL DE MELIPILLA,O Higgins 551,Melipilla,6496000.0,-33.6952509,-71.2152322,XIII
+24588066,TURNO URGENCIA 17:00 A 20:00,61.602.123-0,SERVICIO NACIONAL DE SALUD HOSPITAL DE MELIPILLA,O Higgins 551,Melipilla,29000.0,-33.6952509,-71.2152322,XIII
+24588066,TURNO URGENCIA 11:00 A 20:00,61.602.123-0,SERVICIO NACIONAL DE SALUD HOSPITAL DE MELIPILLA,O Higgins 551,Melipilla,87000.0,-33.6952509,-71.2152322,XIII
+24042729,TURNOS TEC. PARAMEDICOS URGENCIA,61.602.123-0,SERVICIO NACIONAL DE SALUD HOSPITAL DE MELIPILLA,O Higgins 551,Melipilla,532800.0,-33.6952509,-71.2152322,XIII
+24042649,TURNOS ENFERMERA URGENCIA L/N Y/O FESTIVOS,61.602.123-0,SERVICIO NACIONAL DE SALUD HOSPITAL DE MELIPILLA,O Higgins 551,Melipilla,5336000.0,-33.6952509,-71.2152322,XIII
+24042389,TURNOS URGENCIA 18:00 A 20:00 HRS,61.602.123-0,SERVICIO NACIONAL DE SALUD HOSPITAL DE MELIPILLA,O Higgins 551,Melipilla,19333.0,-33.6952509,-71.2152322,XIII
+24042389,TURNOS URGENCIA 8:00 A 18:00 HRS,61.602.123-0,SERVICIO NACIONAL DE SALUD HOSPITAL DE MELIPILLA,O Higgins 551,Melipilla,96667.0,-33.6952509,-71.2152322,XIII
+24042389,TURNOS URGENCIA L/N Y/O FESTIVOS,61.602.123-0,SERVICIO NACIONAL DE SALUD HOSPITAL DE MELIPILLA,O Higgins 551,Melipilla,5104000.0,-33.6952509,-71.2152322,XIII
+24037579,TURNO URGENCIA 18:00  A 20:00 HRS,61.602.123-0,SERVICIO NACIONAL DE SALUD HOSPITAL DE MELIPILLA,O Higgins 551,Melipilla,19333.0,-33.6952509,-71.2152322,XIII
+24037579,TURNO URGENCIA 08:00 A 18:00 HRS,61.602.123-0,SERVICIO NACIONAL DE SALUD HOSPITAL DE MELIPILLA,O Higgins 551,Melipilla,96667.0,-33.6952509,-71.2152322,XIII
+24037579,TURNOS URGENCIA L/N Y/O FESTIVOS,61.602.123-0,SERVICIO NACIONAL DE SALUD HOSPITAL DE MELIPILLA,O Higgins 551,Melipilla,5104000.0,-33.6952509,-71.2152322,XIII
+24027708,TURNO URGENCIA L/N Y/O FESTIVOS,61.602.123-0,SERVICIO NACIONAL DE SALUD HOSPITAL DE MELIPILLA,O Higgins 551,Melipilla,444000.0,-33.6952509,-71.2152322,XIII
+23710226,TURNO URGENCIA DE 18:30 A 20:00 HRS,61.602.123-0,SERVICIO NACIONAL DE SALUD HOSPITAL DE MELIPILLA,O Higgins 551,Melipilla,14500.0,-33.6952509,-71.2152322,XIII
+23710226,URGENCIA TURNO DE 18: 00 A 20.00 HRS,61.602.123-0,SERVICIO NACIONAL DE SALUD HOSPITAL DE MELIPILLA,O Higgins 551,Melipilla,19333.0,-33.6952509,-71.2152322,XIII
+23710226,URGENCIA TURNO DE 08:00 A 18:00 HRS.,61.602.123-0,SERVICIO NACIONAL DE SALUD HOSPITAL DE MELIPILLA,O Higgins 551,Melipilla,96667.0,-33.6952509,-71.2152322,XIII
+23710226,URGENCIA TURNO DE 08:00 A  18:30 HRS.,61.602.123-0,SERVICIO NACIONAL DE SALUD HOSPITAL DE MELIPILLA,O Higgins 551,Melipilla,101500.0,-33.6952509,-71.2152322,XIII
+23141195,EU URGENCIA TURNO LARGO,61.602.123-0,SERVICIO NACIONAL DE SALUD HOSPITAL DE MELIPILLA,O Higgins 551,Melipilla,3087000.0,-33.6952509,-71.2152322,XIII
+22666032,TURNO URGENCIA LARGO,61.602.123-0,Hospital San José de Melipilla,O Higgins 551,Melipilla,2940000.0,-33.6952509,-71.2152322,XIII
+22666032,"TURNO EU PEDIATRIA, URGENCIA, NOCHE Y/O FESTIVO",61.602.123-0,Hospital San José de Melipilla,O Higgins 551,Melipilla,11160000.0,-33.6952509,-71.2152322,XIII
+22281597,turnos urgencia noche y /o festivo,61.602.123-0,Hospital San José de Melipilla,O Higgins 551,Melipilla,6355000.0,-33.6952509,-71.2152322,XIII
+22277346,turnos en urgencia,61.602.123-0,Hospital San José de Melipilla,O Higgins 551,Melipilla,117600.0,-33.6952509,-71.2152322,XIII
+21934811,urgencia turno de 09:30 a 20:00 hrs,61.602.123-0,Hospital San José de Melipilla,O Higgins 551,Melipilla,257250.0,-33.6952509,-71.2152322,XIII
+21934811,turno urgencia  largo,61.602.123-0,Hospital San José de Melipilla,O Higgins 551,Melipilla,2793000.0,-33.6952509,-71.2152322,XIII
+21934811,turno urgencia noche y/ o festivo,61.602.123-0,Hospital San José de Melipilla,O Higgins 551,Melipilla,6355000.0,-33.6952509,-71.2152322,XIII
+21714440,turnos largo enfermera (o) urgencia,61.602.123-0,Hospital San José de Melipilla,O Higgins 551,Melipilla,2940000.0,-33.6952509,-71.2152322,XIII
+21714440,turnos noche y/o festivo enfermeras (o) urgencia,61.602.123-0,Hospital San José de Melipilla,O Higgins 551,Melipilla,6200000.0,-33.6952509,-71.2152322,XIII
+21070879,Turno Enfermeras - Urgencia - Largo,61.602.123-0,Hospital San José de Melipilla,O Higgins 551,Melipilla,3234000.0,-33.6952509,-71.2152322,XIII
+21070879,Turnos Urgencia -noche y/o festivo enfermeras,61.602.123-0,Hospital San José de Melipilla,O Higgins 551,Melipilla,6200000.0,-33.6952509,-71.2152322,XIII
+21059928,Turnos Enfermeras- Urgencia - largo,61.602.123-0,Hospital San José de Melipilla,O Higgins 551,Santiago,3234000.0,-33.5921551,-70.7031219,XIII
+21059928,Turnos Urgencia -noche y/o festivos enfermeras,61.602.123-0,Hospital San José de Melipilla,O Higgins 551,Santiago,6200000.0,-33.5921551,-70.7031219,XIII
+20795410,Turnos Urgencia  Largo,61.602.123-0,Hospital San José de Melipilla,O Higgins 551,Melipilla,2940000.0,-33.6952509,-71.2152322,XIII
+20795410,Turnos noche y/o festivos en urgencia,61.602.123-0,Hospital San José de Melipilla,O Higgins 551,Melipilla,6510000.0,-33.6952509,-71.2152322,XIII
+20607015,Turnos Urgencia Largo.-,61.602.123-0,Hospital San José de Melipilla,O Higgins 551,Melipilla,3087000.0,-33.6952509,-71.2152322,XIII
+20607015,Turnos Urgencia Noche y/o Festivos.-,61.602.123-0,Hospital San José de Melipilla,O Higgins 551,Melipilla,6045000.0,-33.6952509,-71.2152322,XIII
+20392018,21 turnos enfermera urgencia largo.-,61.602.123-0,Hospital San José de Melipilla,O Higgins 551,Melipilla,3087000.0,-33.6952509,-71.2152322,XIII
+20392018,"41 turno enfermera, urgencia noche y/o festivo",61.602.123-0,Hospital San José de Melipilla,O Higgins 551,Melipilla,6355000.0,-33.6952509,-71.2152322,XIII
+20138987,Turnos Urgencia Largo.-,61.602.123-0,Hospital San José de Melipilla,O Higgins 551,Melipilla,1764000.0,-33.6952509,-71.2152322,XIII
+20138987,Turnos Urgencia Noche y/o Festivos.-,61.602.123-0,Hospital San José de Melipilla,O Higgins 551,Melipilla,3720000.0,-33.6952509,-71.2152322,XIII
+20138926,Turnos Enfermera Urgencia Largo.-,61.602.123-0,Hospital San José de Melipilla,O Higgins 551,Melipilla,1176000.0,-33.6952509,-71.2152322,XIII
+20138926,Turnos Enfermera Urgencia Noche y/o Festivo.-,61.602.123-0,Hospital San José de Melipilla,O Higgins 551,Melipilla,2480000.0,-33.6952509,-71.2152322,XIII
+19895003,TURNOS LARGOS DE ENFERMERAS.- (En Servicio de Urgencia),61.602.123-0,  ,O Higgins 551,Melipilla,3234000.0,-33.6952509,-71.2152322,XIII
+19895003,TURNOS NOCHE Y/O FESTIVOS DE ENFERMERAS.- (20 en Servicio de Urgencia y 20 en Servicio de Pediatria),61.602.123-0,  ,O Higgins 551,Melipilla,12400000.0,-33.6952509,-71.2152322,XIII
+19740927,TURNO ENFERMERA (O) URGENCIA LARGO.-,61.602.123-0,  ,O Higgins 551,Melipilla,3087000.0,-33.6952509,-71.2152322,XIII
+19740927,TURNO ENFERMERO (A) URGENCIA NOCHE Y/O FESTIVO.-,61.602.123-0,  ,O Higgins 551,Melipilla,5735000.0,-33.6952509,-71.2152322,XIII
+19682495,"Libro Registro Entrega De Turnos Medicos Serv. Urgencia.Terminación Empastado en Vinilo,Foliado de 1 a 1000, 500 Hojas.Tamaño Carta,Logo Hospital en negro.",61.602.123-0,Hospital San José de Melipilla,O Higgins 551,Melipilla,99000.0,-33.6952509,-71.2152322,XIII
+19500660,"Turnos de Médicos Anestesistas en unidad de Pabellones Quirúrgicos, Partos y Servicio de Urgencia. DIURNOS ( Valor por Hora)",61.602.123-0,Hospital San José de Melipilla,O Higgins 551,*,45700.0,-33.6952509,-71.2152322,XIII
+19500660,"Turnos de Médicos Anestesistas en unidad de Pabellones Quirúrgicos, Partos y Servicio de Urgencia. FESTIVOS ( Valor por Hora)",61.602.123-0,Hospital San José de Melipilla,O Higgins 551,*,46200.0,-33.6952509,-71.2152322,XIII
+19500660,"Turnos de Médicos Anestesistas en unidad de Pabellones Quirúrgicos, Partos y Servicio de Urgencia. NOCTURNOS ( Valor por Hora)",61.602.123-0,Hospital San José de Melipilla,O Higgins 551,*,46200.0,-33.6952509,-71.2152322,XIII
+38795910,"Servicios Médicos (Médicos Cirujanos) para ejercer funciones de médico de turnos en  Servicio de Urgencia, Evaluación en Atención Cerrada (Unidad Médico Quirúrgico y UHCIP) en el Hospital Penco Lirquén.",61.602.198-2,Bienes y Servicios,Bienes y Servicios,,20000.0,-33.438377,-70.6541865,XIII
