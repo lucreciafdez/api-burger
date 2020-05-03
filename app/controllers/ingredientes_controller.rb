@@ -44,6 +44,8 @@ class IngredientesController < ApplicationController
       render json: "Ingrediente no se puede borrar, se encuentra presente en una hamburguesa", status: 409
     else
       @ingrediente.destroy
+      render json: "Ingrediente eliminado", status: 200
+
     end
   end
 
