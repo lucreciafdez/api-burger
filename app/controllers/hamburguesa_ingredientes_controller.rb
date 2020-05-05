@@ -6,7 +6,7 @@ class HamburguesaIngredientesController < ApplicationController
       @hamburguesa = Hamburguesa.find(params[:hamburguesa_id])
       if Ingrediente.find_by(id: params[:ingrediente_id])
         @ingrediente = Ingrediente.find(params[:ingrediente_id])
-        @ingrediente.path = "burger-api-taller.herokuapp.com/ingrediente/#{@ingrediente.id}"
+        @ingrediente.path = "https://burger-api-taller.herokuapp.com/ingrediente/#{@ingrediente.id}"
         esta = @ingrediente.in?(@hamburguesa.ingredientes)
         if esta == TRUE
           render json: "ingrediente ya esta en hamburguesa", status: 201
